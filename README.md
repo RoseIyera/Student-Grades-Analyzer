@@ -45,7 +45,8 @@ Input validation to ensure data integrity.
 </ul>
 
 <h1>🎮 Video Demo</h1>
-https://github.com/RoseIyera/Student-Grades-Analyzer/assets/103562933/2de86809-c915-4fe7-9039-4fa451e39439
+https://github.com/RoseIyera/Student-Grades-Analyzer/assets/103562933/3bc47f42-7547-419b-a849-c4669b160405
+
 
 <h1>👩🏾‍🦱Understanding LINQ for Beginners</h1>
 LINQ (Language-Integrated Query) is a powerful feature in C# that allows you to write queries directly within your code to interact with data sources. 
